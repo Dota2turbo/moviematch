@@ -1,0 +1,6 @@
+{
+  "name": "MovieMatch",
+  "description": "Платформа побудована на гейміфікації для вибору фільмів у стилі Tinder: свайпи, емодзі-фільтри, ШІ-колега та спільні сесії для пар.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
